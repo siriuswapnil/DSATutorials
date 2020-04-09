@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class maxsubarray {
 
     public static void main(String[] args) {
 
